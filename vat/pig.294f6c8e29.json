@@ -1,0 +1,41 @@
+{
+ "clips": {
+  "idle": {
+   "start": 0,
+   "count": 16,
+   "seconds": 2.0
+  },
+  "walk": {
+   "start": 16,
+   "count": 16,
+   "seconds": 1.0
+  },
+  "eat": {
+   "start": 32,
+   "count": 20,
+   "seconds": 2.0
+  },
+  "lie": {
+   "start": 52,
+   "count": 6,
+   "seconds": 3.0
+  }
+ },
+ "lods": [
+  {
+   "file": "pig_lod0.bin",
+   "verts": 7354,
+   "tris": 8959
+  },
+  {
+   "file": "pig_lod1.bin",
+   "verts": 1727,
+   "tris": 1495
+  },
+  {
+   "file": "pig_lod2.bin",
+   "verts": 535,
+   "tris": 345
+  }
+ ]
+}

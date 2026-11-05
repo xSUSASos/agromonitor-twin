@@ -1,0 +1,17 @@
+{
+ "brick": {
+  "meters": 3.0
+ },
+ "concrete": {
+  "meters": 2.16
+ },
+ "floor": {
+  "meters": 2.0
+ },
+ "metal": {
+  "meters": 1.12
+ },
+ "roof": {
+  "meters": 2.0
+ }
+}
